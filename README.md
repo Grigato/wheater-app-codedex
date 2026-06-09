@@ -4,7 +4,7 @@ A simple and responsive weather app that fetches real-time weather data by city 
 
 ## 🖥️ Preview
 
-![Weather App Preview](<img width="1291" height="785" alt="image" src="https://github.com/user-attachments/assets/7917808b-f186-46bb-91c2-f5b7e89de027" />)
+![Weather App Preview](preview.png)
 
 ## 🚀 Features
 
